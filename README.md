@@ -2,7 +2,7 @@
 
 Dream Shops is a Spring Boot based e-commerce backend REST API.
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Java
 - Spring Boot
 - Spring Data JPA
@@ -10,14 +10,14 @@ Dream Shops is a Spring Boot based e-commerce backend REST API.
 - MySQL
 - Maven
 
-## 📦 Features
+##  Features
 - Product & Category CRUD
 - User management
 - Cart & Order management
 - DTO mapping
 - Global exception handling
 
-## ⚙️ Run the Project
+##  Run the Project
 
 ```bash
 git clone https://github.com/gozdetanyildiz/dream-shops.git
